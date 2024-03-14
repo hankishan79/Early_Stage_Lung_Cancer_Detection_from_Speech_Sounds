@@ -19,6 +19,12 @@ Requirements
 Python 3.x
 Required Python packages: numpy, scipy, pandas, scikit-learn, matplotlib
 
+Usage of Dataset:
+If you intend to utilize the raw WAV files of the dataset for academic purposes, please contact us via email at:
+ankishan@ankara.edu.tr
+hayank19@gmail.com
+Feel free to reach out to obtain access to the dataset for your research or academic endeavors.
+
 Citation
 If you use the code or data from this repository in your research, please cite the following paper:
 
