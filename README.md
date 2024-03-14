@@ -22,7 +22,7 @@ Required Python packages: numpy, scipy, pandas, scikit-learn, matplotlib
 Citation
 If you use the code or data from this repository in your research, please cite the following paper:
 
-[Haydar Ankışhan, Haluk Ulucanlar, İslam Aktürk, Kübra Alphan Kavak, Bülent Mustafa Yenigün, Detection of Early Stage Lung Cancer from Speech Sounds in Natural Environment, IEEE Journal of Biomedical and Health Informatics, 2024]
+[Haydar Ankışhan, Haluk Ulucanlar, İslam Aktürk, Kübra Alphan Kavak, Bülent Mustafa Yenigün, Detection of Early Stage Lung Cancer from Speech Sounds in Natural Environment, IEEE Journal of Biomedical and Health Informatics, (Submitted)]
 
 License
 This project is licensed under the MIT License.
