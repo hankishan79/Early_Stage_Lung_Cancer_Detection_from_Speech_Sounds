@@ -28,7 +28,7 @@ Feel free to reach out to obtain access to the dataset for your research or acad
 Citation
 If you use the code or data from this repository in your research, please cite the following paper:
 
-[Haydar Ankışhan, Haluk Ulucanlar, İslam Aktürk, Kübra Alphan Kavak, Bülent Mustafa Yenigün, Detection of Early Stage Lung Cancer from Speech Sounds in Natural Environment, IEEE Journal of Biomedical and Health Informatics, (Submitted)]
+[Haydar Ankışhan, Haluk Ulucanlar, İslam Aktürk, Kübra Alphan Kavak, Bülent Mustafa Yenigün, Detection of Early Stage Lung Cancer from Speech Sounds in Natural Environment, Biomedical Signal Processing and Control (Submitted)]
 
 License
 This project is licensed under the MIT License.
